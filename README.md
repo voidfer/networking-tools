@@ -6,6 +6,7 @@ packet analysis, and systems programming.
 Tools included:
 
 - TCP client
+- TCP server
 - Port scanner
 - Ping implementation
 - Packet sniffer
