@@ -1,0 +1,7 @@
+/home/voidfer/networking-tools/port_scanner/target/release/deps/colorchoice-b03fb61a0665ca81.d: /home/voidfer/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colorchoice-1.0.5/src/lib.rs
+
+/home/voidfer/networking-tools/port_scanner/target/release/deps/libcolorchoice-b03fb61a0665ca81.rlib: /home/voidfer/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colorchoice-1.0.5/src/lib.rs
+
+/home/voidfer/networking-tools/port_scanner/target/release/deps/libcolorchoice-b03fb61a0665ca81.rmeta: /home/voidfer/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colorchoice-1.0.5/src/lib.rs
+
+/home/voidfer/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/colorchoice-1.0.5/src/lib.rs:
